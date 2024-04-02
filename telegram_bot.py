@@ -1,6 +1,4 @@
 import logging
-import pytz 
-import datetime
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext, JobQueue, MessageHandler, filters
 
